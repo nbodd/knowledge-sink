@@ -10,7 +10,7 @@ A collection of resources on interesting topics...
 If you think your code looks, or feels, ugly, or you find yourself not being able to understand the code you wrote a month back, this is a must read book. It covers a breadth of topics from defining a variable name to organizing a program and from best coding practices to designing a complex application.
 
 ## C++
-* [Professional C++ by Marc Gregorie](https://www.amazon.com/Professional-C-Marc-Gregoire/dp/1118858050/)
+* [Professional C++ by Marc Gregorie](https://www.amazon.com/Professional-C-Marc-Gregoire/dp/1118858050/)<br />
 Takes you through a thorough tour of C++ language and its features. It also gives you a gentle introduction to STL and template programming. The books is updated with latest C++14 standard and is very relavent for everyday C++ programmer.
 
 ## Javascript
@@ -22,3 +22,5 @@ A good book for beginners, with latest syntax and examples using ES6. Also does 
 
 ### Web
 * [Firefox Quantum Project: Chrome's coarse-grain parallelism vs Firefox's fine-grain parallelism](https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/)
+
+* [Five types of software interview questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
