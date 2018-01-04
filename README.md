@@ -20,7 +20,9 @@ A good book for beginners, with latest syntax and examples using ES6. Also does 
 
 # Resources
 
-### Web
-* [Firefox Quantum Project: Chrome's coarse-grain parallelism vs Firefox's fine-grain parallelism](https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/)
+### Assorted Items
+* [Firefox Quantum Project - Chrome's coarse-grain parallelism vs Firefox's fine-grain parallelism](https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/)
 
-* [Five types of software interview questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [Software Interview - Five types of interview questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+* [Bitcoin - Abstract Concepts](http://nautil.us/issue/55/trust/the-bitcoin-paradox)
