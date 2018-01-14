@@ -21,6 +21,10 @@ A good book for beginners, with latest syntax and examples using ES6. Also does 
 # Resources
 
 ### Assorted Items
+* [Javascript & browser compatibility](http://kangax.github.io/compat-table/es6/)
+
+* [Programming languages' trends in GitHub](http://githut.info/)
+
 * [Firefox Quantum Project - Chrome's coarse-grain parallelism vs Firefox's fine-grain parallelism](https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/)
 
 * [Software Interview - Five types of interview questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
