@@ -20,12 +20,14 @@ A good book for beginners, with latest syntax and examples using ES6. Also does 
 
 # Resources
 
+### General
+* [Programming languages' trends in GitHub](http://githut.info/)
+
+
 ### Javascript
 * [Javascript & browser compatibility](http://kangax.github.io/compat-table/es6/)
 
 * [State of Javascript - Usage of various libraries and tools](https://stateofjs.com/2017/connections/)
-
-* [Programming languages' trends in GitHub](http://githut.info/)
 
 
 ### Interesting Reads
